@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+.post {
+    background: white;
+    width: 500px;
+    height: 550px;
+    margin-top: 10px;
+}
+
+.col-10{
+    margin-left: 0px;
+}
+div{
+    margin: auto;
+    height: max-content;
+    background-color: white;
+}
